@@ -1,4 +1,4 @@
-[![MasterHead]([ https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif](https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0))]( Bryan's Portfolio (bryanooko738.github.io))
+[![MasterHead](https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0)](https://bryanooko738.github.io)
 
 <h1 align="center">Hi 👋, I'm Bryan Onyango</h1>
 <h3 align="center">A passionate Full Stack developer from Kenya</h3>
