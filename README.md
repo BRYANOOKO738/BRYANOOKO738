@@ -1,4 +1,9 @@
-[![MasterHead](https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0)](https://bryanooko738.github.io)
+<a href="https://bryanooko738.github.io" target="_blank">
+  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" alt="MasterHead" style="width:100%; height:20%;">
+</a>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Bryan Onyango</h1>
 <h3 align="center">A passionate Full Stack developer from Kenya</h3>
