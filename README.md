@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanooko738" alt="bryanooko738" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Solidity**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **react,redux**
+- 💬 Ask me about **react,redux,Solidity**
 
 - 📫 How to reach me **onyangobryan8@gmail.com**
 
