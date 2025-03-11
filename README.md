@@ -1,9 +1,12 @@
 # <div align="center">👨‍💻 Bryan Onyango</div>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Web3+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" /></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Smart+Contract+Engineer;Fullstack+Blockchain+Developer;Fullstack+Developer" alt="Typing SVG" />
+</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Blockchain%20Development-blue" />
-  <img src="https://img.shields.io/badge/Based%20in-Kenya-green" />
+<!--   <img src="https://img.shields.io/badge/Based%20in-Kenya-green" /> -->
   <img src="https://img.shields.io/badge/Available%20for-Collaboration-yellow" />
 </div>
 
@@ -15,7 +18,7 @@
 - 🌱 **Learning:** Advanced Django patterns and blockchain architecture
 - 💼 **Looking for:** Collaborative projects in web3 and fullstack development
 - 💬 **Ask me about:** React, Redux, Solidity, and building user-centric applications
-- 🌐 **Portfolio:** [Coming Soon]
+- 🌐 **Portfolio:** https://bryansportfolio1.netlify.app/
 - 📧 **Contact:** [onyangobryan8@gmail.com](mailto:onyangobryan8@gmail.com)
 
 ## My Tech Arsenal
@@ -48,6 +51,9 @@
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-FF5A00?style=for-the-badge&logo=foundry&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -65,16 +71,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanooko738&theme=radical" alt="GitHub Streak" />
 </div>
 
-## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/bryanooko738">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanooko738&repo=repository-name-here&theme=radical" />
-  </a>
-  <a href="https://github.com/bryanooko738">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanooko738&repo=repository-name-here&theme=radical" />
-  </a>
-</div>
 
 ## Connect With Me
 
